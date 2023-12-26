@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @malko715
-- 👀 I’m interested in Golf
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on friends
 - 📫 How to reach me minshikkim@outlook.com
 
 <!---
